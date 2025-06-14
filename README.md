@@ -8,4 +8,4 @@ This way, instead of manually solving synthetic division problems in math class,
 Keep in mind, the program only works assuming:
 -the degree of the dividend is greater than the degree of the divisor
 -the degrees of both polynomials are positive integers
--any decimal values for the coefficients are written in fraction form
+-every coefficient is written as either an integer or fraction (no decimals)
